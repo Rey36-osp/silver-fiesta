@@ -1,4 +1,1 @@
-telebot
-types
-os
-json
+pyTelegramBotAPI==4.0.1 
