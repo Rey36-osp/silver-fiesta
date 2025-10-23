@@ -1,1 +1,4 @@
-
+telebot
+types
+os
+json
